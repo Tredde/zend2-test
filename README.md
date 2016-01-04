@@ -1,3 +1,3 @@
 # zend2-test
-Zend2 test application
+Zend2 test application.
 My first github repository
